@@ -26,7 +26,12 @@ dictionary-web-app/
 └── README.md          # Project documentation
 
 <img width="938" alt="Screenshot 2025-06-15 215402" src="https://github.com/user-attachments/assets/a89fc9b4-52ba-49e8-b37f-ec68251feb8b" />
-<img width="941" alt="Screenshot 2025-06-15 215439" src="https://github.com/user-attachments/assets/6a08bbdc-3569-40b5-88b3-6d16005f9fde" />
+
+
+
+
+
+<img width="941" alt="Screenshot 2025-06-15 215439" src="https://github.com/user-attachments/assets/ddb8f782-cadb-49c8-93fb-fe122bb4e683" />
 
 
 🧠 How It Works
