@@ -25,6 +25,9 @@ dictionary-web-app/
 ├── script.js          # Core JavaScript logic
 └── README.md          # Project documentation
 
+<img width="938" alt="Screenshot 2025-06-15 215402" src="https://github.com/user-attachments/assets/3e17c340-05d8-4419-aa35-3844e3124caf" />
+
+
 <img width="938" alt="Screenshot 2025-06-15 215402" src="https://github.com/user-attachments/assets/a89fc9b4-52ba-49e8-b37f-ec68251feb8b" />
 
 
